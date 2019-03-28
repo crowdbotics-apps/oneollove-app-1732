@@ -1,0 +1,3 @@
+rootProject.name = 'oneollove_app_1732'
+
+include ':app'
